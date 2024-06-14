@@ -1,0 +1,8 @@
+query GetHelloQuery {
+  getHelloQuery {
+    data
+  }
+}
+mutation HelloMutation {
+  helloMutation
+}
